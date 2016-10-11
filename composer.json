@@ -1,5 +1,5 @@
 {
-    "name": "troopers/alertify-bundle",
+    "name": "newton-labs/alertify-bundle",
     "type": "symfony-bundle",
     "description": "Symfony AlertifyBundle",
     "keywords": ["alert", "bootstrap"],
@@ -16,6 +16,7 @@
             "email": "leny@troopers.email",
             "homepage": "http://troopers.agency"
         }
+            
     ],
     "require": {
         "friendsofsymfony/jsrouting-bundle": "2.0.*@dev"
