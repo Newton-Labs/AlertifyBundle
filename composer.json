@@ -21,9 +21,6 @@
     "require": {
         "friendsofsymfony/jsrouting-bundle": "2.0.*@dev"
     },
-    "suggest": {
-        "troopers/assetic-injector-bundle": "~1.1"
-    },
     "require-dev": {
         "symfony/class-loader": "~2.1"
     },
